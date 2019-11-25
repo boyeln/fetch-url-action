@@ -1,0 +1,10 @@
+{
+  "name": "fetch-deploy-hook-action",
+  "version": "1.0.0",
+  "description": "GitHub Action for fetching a deploy hook",
+  "main": "index.js",
+  "repository": "git@github.com:boyeborg/fetch-deploy-hook-action.git",
+  "author": "Boye Borg <boye.borg@icloud.com>",
+  "license": "MPL-2.0",
+  "private": false
+}
