@@ -1,2 +1,2 @@
 # fetch-deploy-hook-action
-Fetches a deploy hook URL
+GitHub Action for fetching a deploy hook
