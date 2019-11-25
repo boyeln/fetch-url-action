@@ -1,0 +1,13 @@
+
+name: 'Fetch URL'
+description: 'Fetches a URL'
+inputs:
+  url:
+    description: 'The url to fetch'
+    required: true
+outputs:
+  result:
+    description: 'The result returned by the URL'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
